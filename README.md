@@ -1,5 +1,7 @@
 
-![one](https://github.com/Natan-Murillo/ProjetoOne/assets/171517728/21febf8f-f844-4d6c-85fe-e196331c372a)
+![one](https://github.com/Natan-Murillo/ProjetoOne/assets/171517728/21febf8f-f844-4d6c-85fe-e196331c372a) 
+
+![Prancheta 3](https://github.com/Natan-Murillo/ProjetoOne/assets/171517728/c37c4f0c-f648-40c0-b546-5c1189b9f3ee)
 
 
 O objetivo desse Challenge era desenvolver um decodificador de texto em Javascript, onde pudesse criptografar um texto e depois descriptografar para o texto original.
