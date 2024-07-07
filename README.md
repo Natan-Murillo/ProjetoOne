@@ -4,9 +4,9 @@
 ![Prancheta 3](https://github.com/Natan-Murillo/ProjetoOne/assets/171517728/c37c4f0c-f648-40c0-b546-5c1189b9f3ee)
 
 
-<h2>Desafio final do curso ONE - Oracle Next Education com a parceria com a alura</h2>
+<h1>Desafio final do curso ONE - Oracle Next Education com a parceria com a alura</h2>
 
-<h1>Sobre o desafio</h1>
+
 
 <h2>Descrição</h2>
 
