@@ -58,7 +58,7 @@ A letra "u" é convertida para "ufat"
   <li>Figma</li>
 </ul>
 
-<h1>Video do Projeto funcionando</h1>
+<h1>Video do Projeto</h1>
 
 
 https://github.com/Natan-Murillo/ProjetoOne/assets/171517728/26f19052-6518-481e-ad9a-4f4cfe21b0cd
